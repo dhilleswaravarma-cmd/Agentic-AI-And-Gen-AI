@@ -1,1 +1,1 @@
-# Agentic-AI-And-Gen-AI
+Gen AI And Agentic AI
